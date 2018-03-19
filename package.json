@@ -1,0 +1,9 @@
+{
+  "name": "boilerplate-marvin-packet",
+  "version": "1.0.0",
+  "description": "A boilerplate marvin packet ",
+  "main": "/lib/index.js",
+  "repository": "git@github.com:marvin-js/boilerplate-marvin-packet.git",
+  "author": "You Name <youemail@emailcom",
+  "license": "MIT"
+}
